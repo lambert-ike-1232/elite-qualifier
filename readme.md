@@ -1,8 +1,8 @@
 #This is elite quali.
 
-# Title
+# Elite Qualifier
 
-Simple (or clever and funny?) description
+This is what you were suppose to before class
 
 ## Table of Contents
 
@@ -14,14 +14,17 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+We are currently doing this project for practice.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+1.) Check 
+2.) Check
 
 ## Usage
 
 These are the steps to use the application or interact with it.
 
 ### Any optional sections
+
+
