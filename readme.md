@@ -26,5 +26,3 @@ We are currently doing this project for practice.
 These are the steps to use the application or interact with it.
 
 ### Any optional sections
-
-
